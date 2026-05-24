@@ -40,7 +40,6 @@ If not, you are left with the option to root your device or uninstall it though 
 
 `pm uninstall --user 0 com.useless.piece.of.trash`
 
-
 Look through the vendor-specific phone settings and search for anything related to battery optimization or background processing.
 If you find it try to disable it.
 
